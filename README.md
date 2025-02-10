@@ -37,7 +37,7 @@
 <img src="https://imgur.com/nGd15j2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>Next, we downloaded osTicket from the official website and placed its files in the correct web directory. On Windows, we used the inetpub/wwwroot folder for IIS. We then configure the MySQL database, creating a new database and user specifically for osTicket. After setting correct permissions, we proceed with the web-based installation, where we enter the database details and create an administrator account.
+<p>Next, we downloaded osTicket from the official website and placed its files in the correct web directory. On Windows, we used the inetpub/wwwroot folder for IIS. We then configure the MySQL database, creating a new database and user specifically for osTicket. After setting correct permissions, we proceed with the web based installation, where we enter the database details and create an administrator account.
 
 </p>
 <br />
