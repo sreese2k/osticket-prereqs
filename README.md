@@ -59,3 +59,21 @@
 
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>Finally, we test osTicket by submitting and resolving sample tickets to verify functionality. We checked to ensure tickets can be created via email and confirm that the system correctly tracks, assigns, and resolves support requests. This installation process gives us hands-on experience with server setup, database management, and helpdesk operations, making osTicket a valuable tool for IT support teams.
+
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>Finally, we test osTicket by submitting and resolving sample tickets to verify functionality. We checked to ensure tickets can be created via email and confirm that the system correctly tracks, assigns, and resolves support requests. This installation process gives us hands-on experience with server setup, database management, and helpdesk operations, making osTicket a valuable tool for IT support teams.
+
+</p>
+<br />
