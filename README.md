@@ -36,7 +36,7 @@
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/Rq4IaFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gL0KHaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>In this presentation, we will walk through the step-by-step installation of osTicket, a widely used open-source ticketing system, on a Windows 10 virtual machine hosted on Microsoft Azure. The process begins with creating the virtual machine with a name of osticket-vm, configured with 4 vCPUs. Once deployed, we log into the VM using Remote Desktop with the credentials (Username: labuser, Password: osTicketPassword1!). Inside the VM, we download and extract the osTicket-Installation-Files.zip to the desktop, creating a folder named osTicket-Installation-Files, which contains the necessary dependencies for installation.
