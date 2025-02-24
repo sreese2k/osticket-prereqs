@@ -69,7 +69,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/PrWhje1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>We then proceed with the final osTicket setup in the browser by providing a Helpdesk Name and Default Email. Next, we install HeidiSQL, a database management tool, and use it to connect to MySQL with the root credentials. Within HeidiSQL, we create a new database called osTicket, which will store all ticket-related data. Returning to the osTicket installation interface, we input the database details: Database Name: osTicket, MySQL Username: root, and Password: root, and click Install Now! to complete the setup. If all previous steps were correctly followed, osTicket should now be installed without errors.
