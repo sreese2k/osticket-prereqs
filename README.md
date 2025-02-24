@@ -77,7 +77,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xBJIlUz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>After installation, we access the osTicket Admin Panel at http://localhost/osTicket/scp/login.php and the End-User Support Portal at http://localhost/osTicket/.
@@ -85,7 +85,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZNOa15X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>By following these steps, we have successfully set up osTicket on an Azure VM, ensuring that it is configured with all required dependencies and security settings. This installation provides a robust helpdesk system that can be used to manage customer inquiries efficiently. Whether for IT support teams or customer service departments, osTicket offers an intuitive interface for ticket management, making it an excellent choice for organizations seeking a free yet powerful solution.
