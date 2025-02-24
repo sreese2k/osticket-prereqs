@@ -61,7 +61,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/6MMZpti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NtZ9kvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>At this stage, osTicket may indicate that some PHP extensions are missing. To resolve this, we return to IIS, open PHP Manager, and enable the necessary extensions: php_imap.dll, php_intl.dll, and php_opcache.dll. After enabling these extensions, we refresh the osTicket installation page in our browser to confirm that the missing dependencies are now enabled. We then rename the configuration file by changing ost-sampleconfig.php to ost-config.php in C:\inetpub\wwwroot\osTicket\include. Following this, we adjust the file’s permissions by disabling inheritance, removing all previous permissions, and assigning “Everyone” full control to allow osTicket to make necessary changes.
