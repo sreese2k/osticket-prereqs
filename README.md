@@ -44,7 +44,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/nGd15j2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Wn62JBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>Next, we install Internet Information Services (IIS) with CGI support, ensuring that World Wide Web Services and Application Development Features have CGI enabled. IIS is crucial as it allows us to host web applications like osTicket. After enabling IIS, we proceed with installing the PHP Manager for IIS and the IIS Rewrite Module from the osTicket installation files. These components will help configure and manage PHP settings within IIS, making sure osTicket runs smoothly. Additionally, we create the directory C:\PHP and extract PHP 7.3.8 into this folder, which is a required version for osTicket. We also install VC_redist.x86.exe, an essential Visual C++ Redistributable package, and then install MySQL 5.5.62, configuring it with the root username and password both set to root.
