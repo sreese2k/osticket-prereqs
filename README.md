@@ -53,7 +53,7 @@
 <br />
 
 <p>
-<img src="https://imgur.com/zL5a09R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ujXuol3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>With IIS installed, we now configure it to recognize PHP. This is done by opening IIS as an Administrator, navigating to PHP Manager, and registering PHP by linking it to C:\PHP\php-cgi.exe. To apply the changes, we restart IIS by stopping and starting the server. Next, we proceed with installing osTicket version 1.15.8 by extracting the osTicket-v1.15.8.zip file from the installation folder. We move the upload folder to C:\inetpub\wwwroot and rename it to osTicket. Restarting IIS again ensures the newly added files are correctly recognized, and then we browse to the osTicket site by navigating to Sites -> Default -> osTicket in IIS and clicking *Browse :80 to open the web interface.
